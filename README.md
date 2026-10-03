@@ -1,271 +1,194 @@
 <div align="center">
 
-# Hey there, I'm Rodina! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="./assets/terminal.svg" width="100%" alt="Terminal introduction for Rodina Mohamed, Software Development Engineer and AI Engineer" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%7C+Agentic+AI+Builder;RAG+Systems+%26+LLM+Applications;Building+Intelligent+Systems+That+Matter;From+Concepts+to+Production-Ready+AI" alt="Typing SVG" /></a>
+<br />
 
-<br/>
-
-🎓 B.Sc. Computer Science & Engineering (AI) — Alamein International University (2026)
-
-📍 Alexandria, Egypt
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodina-mohamed-konsowa/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodinamo2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodina404)
-
-<img src="https://komarev.com/ghpvc/?username=Rodina404&style=flat-square&color=6C63FF" alt="Profile Views"/>
+[`email`](mailto:rodinamo2003@gmail.com) · [`linkedin`](https://www.linkedin.com/in/rodina-mohamed-konsowa/) · [`github`](https://github.com/Rodina404)
 
 </div>
 
----
+## `$ whoami`
 
-## 🚀 What I'm Up To
+```text
+name      Rodina Mohamed
+role      Software Development Engineer | AI Engineer
+location  Alexandria, Egypt
+degree    B.Sc. Computer Science & Engineering (AI), AIU — 2026
+```
 
-- 🔬 **AI Engineering Intern** @ Farapi — building production AI systems
-- 📄 Writing an **IEEE conference paper** (IC-FTAI 2026) on AI-powered career guidance
-- 🤖 Building **AI agents** and **RAG-powered applications**
-- 🧠 Exploring the frontiers of **Agentic AI** and **multi-step reasoning**
+I build agentic AI systems, grounded retrieval applications, and the backend services that turn them into dependable software.
 
----
+```text
+current.focus  = production-grade AI agents + Model Context Protocol (MCP)
+interests      = agentic systems + RAG + LLM applications + web engineering
+```
 
-## 🧠 About Me
+## `$ systemctl --user status what-i-build`
 
-> *I'm an AI Engineer passionate about building intelligent systems that solve real-world problems — turning AI concepts into production-ready applications through scalable backend architectures and modern AI frameworks.*
+```text
+knowledge + user intent
+          │
+          ▼
+  agent orchestration ──────► tool selection
+          │                         │
+          ▼                         │
+ retrieval + memory ◄───────────────┘
+          │
+          ▼
+ backend APIs + microservices
+          │
+          ▼
+ intelligent products
+```
 
-<table>
-<tr>
-<td valign="top" width="50%">
+## `$ stack --grouped`
 
-**Core Focus Areas**
-- 🤖 Agentic AI Systems
-- 📚 Retrieval-Augmented Generation (RAG)
-- 💬 LLM Applications & Prompt Engineering
-- ⚙️ AI Backend Engineering
+```yaml
+ai_llm:
+  - LangChain, LangGraph, Agentic AI, RAG Pipelines
+  - Prompt Engineering, Groq LLM APIs, FAISS, Chroma
 
-</td>
-<td valign="top" width="50%">
+backend:
+  - Python, FastAPI, Node.js
+  - REST APIs, Microservices, Modular Architecture
 
-**Technical Interests**
-- 🚀 FastAPI Microservices
-- 🗄️ Vector Databases (Pinecone, Chroma, FAISS)
-- 🔗 LangChain & LangGraph Orchestration
-- 🎯 Reinforcement Learning
+data:
+  - PostgreSQL, MongoDB, MySQL, SQL
+  - NumPy, Pandas, Scikit-learn
 
-</td>
-</tr>
-</table>
+product_ui:
+  - JavaScript, React, HTML, CSS
 
----
+engineering:
+  - Java, OOP, Design Patterns, Data Structures, Algorithms, Git
 
-## 🛠️ Tech Stack
+delivery:
+  - Docker, Kubernetes, Linux
+```
 
-<details open>
-<summary><b>🤖 AI & LLM Ecosystem</b></summary>
-<br/>
+## `$ ls ./projects`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/🦜_LangGraph-2D5BA6?style=for-the-badge&logoColor=white)
-![LangSmith](https://img.shields.io/badge/🦜_LangSmith-FF6B35?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+### `01. AI-Powered Skill Mentor`
 
-</details>
+> Graduation project · 2025–2026
 
-<details open>
-<summary><b>🗄️ Vector Databases & Storage</b></summary>
-<br/>
+A career platform that extracts skills, identifies gaps, recommends courses, builds learning direction, and matches candidates with jobs.
 
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Chroma](https://img.shields.io/badge/ChromaDB-7C4DFF?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- Architected seven separated microservices with REST APIs and clear OOP boundaries.
+- Built asynchronous pipelines with PostgreSQL row-level security.
+- Prepared the system for Kubernetes deployment.
+- Accepted by industry partner Farapi for a three-month internship based on production quality and software-engineering standards.
 
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Infrastructure</b></summary>
-<br/>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
+`Python` `FastAPI` `Node.js` `LangChain` `PostgreSQL` `React` `Docker` `Kubernetes`
 
 ---
 
-## 🏗️ Featured Projects
+### [`02. Autonomous AI Agent`](https://github.com/Rodina404/Autonomous-AI-Agent)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> Agentic service · 2026 · [`source`](https://github.com/Rodina404/Autonomous-AI-Agent)
 
-### 🎓 AI-Powered Skill Mentor
-A full AI-powered career guidance platform built with a **microservices architecture**.
+An autonomous service that reasons about a task, plans its next step, and selects the right tool instead of returning a single-pass answer.
 
-**Key Features:**
-- 📄 CV Skill Extraction via NLP
-- 📊 Intelligent Skill Gap Analysis
-- 🎯 Personalized Course Recommendation
-- 🗺️ Learning Roadmap Generation
-- 💼 AI-Driven Job Matching
+- Implemented LangChain ReAct orchestration with calculator, file-manager, and Tavily search tools.
+- Added FAISS episodic memory with SQLite persistence for cross-session context.
+- Exposed the agent through a documented FastAPI service with Docker-ready Linux deployment.
 
-**Tech:** `Python` `FastAPI` `PostgreSQL` `React` `Docker` `Kubernetes`
-
-> ✅ Accepted by **Farapi** — currently being extended through a 3-month AI Engineering Internship.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Autonomous AI Agent
-An autonomous AI agent powered by **Llama 3** and **LangChain** with persistent memory.
-
-**Key Features:**
-- 🔧 Dynamic Tool Calling
-- 🧠 Persistent Memory (FAISS + SQLite)
-- 🌐 Real-Time Web Search
-- 🔄 Multi-Step Reasoning Engine
-- 🚀 FastAPI Backend API
-
-**Tech:** `LangChain` `LangSmith` `FastAPI` `Docker` `FAISS` `SQLite`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Agentic RAG Cloud Assistant
-RAG-based AI assistant for **AWS cloud support** with agentic reasoning capabilities.
-
-**Key Features:**
-- 🧠 Multi-Step Agentic Reasoning
-- 📚 Retrieval-Augmented Generation
-- 🔍 Hybrid Vector Search
-- 🔧 Dynamic Tool Calling
-
-**Tech:** `LangChain` `Pinecone` `Chroma` `FastAPI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔮 More Coming Soon...
-Always building, always learning.
-
-Currently exploring:
-- 🕸️ Multi-agent collaboration systems
-- 📊 Advanced RAG architectures
-- 🔄 AI pipeline orchestration
-
-**Stay tuned!**
-
-</td>
-</tr>
-</table>
+`Python` `LangChain ReAct` `Llama 3.3 70B` `Groq` `FAISS` `FastAPI` `Docker`
 
 ---
 
-## 📊 GitHub Stats
+### [`03. Agentic RAG Cloud Support Assistant`](https://github.com/Rodina404/cloud-support-assistant-langchain)
+
+> Grounded cloud-support system · 2026 · [`source`](https://github.com/Rodina404/cloud-support-assistant-langchain)
+
+An assistant that answers questions over AWS service documentation instead of relying only on model memory.
+
+- Combined tool calling with Chroma vector retrieval.
+- Used multi-step reasoning to produce grounded responses over cloud-infrastructure knowledge.
+
+`LangChain` `RAG` `Chroma` `Tool Calling` `AWS Documentation`
+
+## `$ git log --experience`
+
+```text
+2026-01..2026-09  Teaching Assistant
+                    Alamein International University
+
+2025-07..2025-09  Reinforcement Learning Intern
+                    SRTA-City
+
+2024-07..2024-08  Java Programming Intern
+                    Information Technology Institute
+```
+
+- **Teaching Assistant:** supported students in Java OOP, design patterns, debugging, calculus, and mathematical problem-solving.
+- **Reinforcement Learning Intern:** studied agents, environments, states, actions, and rewards; collaborated on a 3D game using Unity, C#, and Blender.
+- **Java Programming Intern:** built a real-time Java Swing and MySQL messaging platform using OOP, multithreading, Agile practices, and team development.
+
+## `$ cat education.txt`
+
+```text
+B.Sc. Computer Science and Engineering — Artificial Intelligence Department
+Alamein International University
+Graduated: June 2026
+CGPA: 3.28 / 4.0
+```
+
+## `$ ls ./certificates`
+
+```text
+2026-05  LangChain & LangGraph Specialisation
+         Packt / Coursera
+
+2026-03  RAG — 96.4%
+         DeepLearning.AI
+
+2025-12  Generative AI Engineering with LLMs Specialisation
+         IBM / Coursera
+
+2025-04  Algorithms on Graphs
+         University of California San Diego / Coursera
+
+2024-12  Engineering Practices for Building Quality Software
+         University of Minnesota / Coursera
+
+2024-12  Unix System Basics
+         Codio / Coursera
+```
+
+## `$ git status --profile`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rodina404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodina404&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rodina404&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;icon_color=A78BFA&amp;text_color=F0F6FC&amp;ring_color=8B5CF6" alt="Rodina's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodina404&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=F0F6FC" alt="Rodina's most-used public repository languages" />
 
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodina404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
-
-</div>
-
----
-
-## 💼 Experience
-
-### <img src="https://img.shields.io/badge/Farapi-6C63FF?style=flat-square" alt="Farapi"/> AI Engineering Intern
-**Jun 2025 – Present**
-
-Continuing development of the **AI-Powered Skill Mentor** platform under professional supervision.
-
-- 🔧 Building AI backend services and APIs
-- 📄 Developing skill extraction pipelines
-- 💼 Implementing intelligent job matching systems
-- 🔗 Leading product integration efforts
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer |
-|:---|:---|
-| 🏅 Generative AI Engineering with LLMs | IBM |
-| 🏅 LangChain & LangGraph Specialization | — |
-| 🏅 Retrieval Augmented Generation | DeepLearning.AI |
-| 🏅 Fundamentals of Reinforcement Learning | — |
-
----
-
-## 📄 Research
-
-<div align="center">
-
-### 📝 Paper in Preparation
-
-**IEEE IC-FTAI 2026**
-
-*AI-Powered Skill Extraction and Career Guidance Systems*
-
-![Status](https://img.shields.io/badge/Status-In_Preparation-yellow?style=for-the-badge)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rodina404/Rodina404/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rodina404/Rodina404/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rodina404/Rodina404/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Rodina404/Rodina404/output/github-snake-dark.svg" alt="Animated contribution graph" />
 </picture>
+
+<br />
+
+<img src="./assets/robot-play.svg" width="138" alt="A small lavender robot playing Pong" />
+
+<sub><code>robot@github:~$ ./play-pong --idle</code></sub>
 
 </div>
 
----
+## `$ ping rodina`
+
+```text
+Open to thoughtful collaboration around:
+  AI agents · RAG systems · intelligent products · backend engineering
+```
 
 <div align="center">
 
-### 💬 *"The best way to predict the future is to build it."*
-
-<br/>
-
-**Thanks for visiting!** ⭐
-
-If you find my work interesting, feel free to connect or collaborate!
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodina-mohamed-konsowa/)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodinamo2003@gmail.com)
+[`rodinamo2003@gmail.com`](mailto:rodinamo2003@gmail.com) · [`linkedin`](https://www.linkedin.com/in/rodina-mohamed-konsowa/) · [`github`](https://github.com/Rodina404)
 
 </div>
