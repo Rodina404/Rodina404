@@ -13,7 +13,7 @@
 ```text
 name      Rodina Mohamed
 role      Software Development Engineer | AI Engineer
-location  Alexandria, Egypt
+location  Cairo, Egypt
 degree    B.Sc. Computer Science & Engineering (AI), AIU — 2026
 ```
 
