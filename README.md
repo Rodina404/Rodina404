@@ -137,8 +137,12 @@ A career platform that extracts resume skills and recommends jobs and courses.
 ## <img src="./assets/planet-4.svg" height="26" alt="" /> Tech stack
 
 <div align="center">
-<img src="./assets/solar-system.svg" width="100%" alt="Tech stack as a solar system: Applied AI at the centre, orbited by AI/LLM, Backend, Data, Frontend, and Engineering and delivery" />
+<img src="./assets/solar-system.svg" width="100%" alt="Tech stack solar system with Applied AI at the centre. AI / LLM: LangChain, LangGraph, Agentic AI, RAG, Prompt Engineering, Groq, FAISS, Chroma. Backend: Python, FastAPI, Node.js, Express, REST APIs, Microservices, Google OAuth, Stripe. Data: PostgreSQL, Supabase, MongoDB, MySQL, NumPy, Pandas, Scikit-learn. Frontend: JavaScript, TypeScript, React, Tailwind CSS, HTML, CSS. Engineering and delivery: Java, OOP, DSA, Git, Docker, Kubernetes, Linux, Railway, Vercel." />
 </div>
+
+<details>
+<summary><b>View as badges</b></summary>
+<br />
 
 **AI / LLM**<br />
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -187,6 +191,8 @@ A career platform that extracts resume skills and recommends jobs and courses.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
 
 ## <img src="./assets/planet-5.svg" height="26" alt="" /> Certificates
 
