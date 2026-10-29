@@ -1,26 +1,29 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" width="100%" alt="Terminal introduction for Rodina Mohamed, Software Development Engineer and AI Engineer" />
+<img src="./assets/terminal.svg" width="100%" alt="Terminal introduction for Rodina Konsowa, Applied AI Engineer" />
 
 <br />
 
-[`email`](mailto:rodinamo2003@gmail.com) · [`linkedin`](https://www.linkedin.com/in/rodina-mohamed-konsowa/) · [`github`](https://github.com/Rodina404)
+[`email`](mailto:rodinamo2003@gmail.com) · [`linkedin`](https://www.linkedin.com/in/rodina-mohamed-konsowa/) · [`github`](https://github.com/Rodina404) · `cv` <!-- TODO: CV link — replace `cv` with [`cv`](https://...) -->
 
 </div>
 
 ## `$ whoami`
 
 ```text
-name      Rodina Mohamed
-role      Software Development Engineer | AI Engineer
-location  Cairo, Egypt
-degree    B.Sc. Computer Science & Engineering (AI), AIU — 2026
+name       Rodina Konsowa
+role       Applied AI Engineer
+backend    Python · FastAPI · PostgreSQL
+location   Cairo, Egypt
+education  B.Sc. CSE (AI), AIU — June 2026 · CGPA 3.28/4.0
 ```
+
+> **Open to Applied AI / AI Engineer roles · Cairo or remote · available immediately**
 
 I build agentic AI systems, grounded retrieval applications, and the backend services that turn them into dependable software.
 
 ```text
-current.focus  = production-grade AI agents + Model Context Protocol (MCP)
+current.focus  = production-grade AI agents
 interests      = agentic systems + RAG + LLM applications + web engineering
 ```
 
@@ -42,59 +45,63 @@ knowledge + user intent
  intelligent products
 ```
 
-## `$ stack --grouped`
+## `$ git log --experience`
 
-```yaml
-ai_llm:
-  - LangChain, LangGraph, Agentic AI, RAG Pipelines
-  - Prompt Engineering, Groq LLM APIs, FAISS, Chroma
+```text
+2026-09..now      Full-Stack Software Developer
+                    Freelance (A-Picks Solutions) · Remote
 
-backend:
-  - Python, FastAPI, Node.js
-  - REST APIs, Microservices, Modular Architecture
+2026-01..2026-09  Junior Teaching Assistant – Mathematics & Java OOP
+                    Alamein International University
 
-data:
-  - PostgreSQL, MongoDB, MySQL, SQL
-  - NumPy, Pandas, Scikit-learn
+2025-07..2025-09  Reinforcement Learning Intern
+                    SRTA-City
 
-product_ui:
-  - JavaScript, React, HTML, CSS
-
-engineering:
-  - Java, OOP, Design Patterns, Data Structures, Algorithms, Git
-
-delivery:
-  - Docker, Kubernetes, Linux
+2024-07..2024-08  Java Programming Intern
+                    Information Technology Institute
 ```
+
+- **Full-Stack Software Developer:**
+  - Led most frontend development with React, TypeScript, and React Bits (responsive marketplace interfaces and user workflows).
+  - Building backend authentication with FastAPI, Google OAuth, email/password sign-in, and PostgreSQL.
+  - Contributing to Stripe payment integration for marketplace wallet funding.
+- **Junior Teaching Assistant:** supported students in Java OOP, design patterns, debugging, calculus, and mathematical problem-solving.
+- **Reinforcement Learning Intern:** studied agents, environments, states, actions, and rewards; collaborated on a 3D game using Unity, C#, and Blender.
+- **Java Programming Intern:** built a real-time Java Swing and MySQL messaging platform using OOP, multithreading, Agile practices, and team development.
 
 ## `$ ls ./projects`
 
 ### `01. AI-Powered Skill Mentor`
 
-> Graduation project · 2025–2026
+> Graduation project · 2025–2026 · `source` <!-- TODO: no public repo found under Rodina404 — add [`source`](https://github.com/...) link -->
 
-A career platform that extracts skills, identifies gaps, recommends courses, builds learning direction, and matches candidates with jobs.
+A career platform that extracts resume skills and recommends jobs and courses.
 
-- Architected seven separated microservices with REST APIs and clear OOP boundaries.
-- Built asynchronous pipelines with PostgreSQL row-level security.
-- Prepared the system for Kubernetes deployment.
-- Accepted by industry partner Farapi for a three-month internship based on production quality and software-engineering standards.
+- Led a five-member team and built the Express backend.
+- Integrated AI microservices for resume extraction, job recommendations, and course recommendations.
+- Accepted by industry partner Farapi for a 3-month internship.
 
 `Python` `FastAPI` `Node.js` `LangChain` `PostgreSQL` `React` `Docker` `Kubernetes`
+
+<!-- TODO: demo GIF -->
+<!-- TODO: architecture diagram -->
 
 ---
 
 ### [`02. Autonomous AI Agent`](https://github.com/Rodina404/Autonomous-AI-Agent)
 
-> Agentic service · 2026 · [`source`](https://github.com/Rodina404/Autonomous-AI-Agent)
+> Agentic service · 2026 · [`source`](https://github.com/Rodina404/Autonomous-AI-Agent) · [`demo`](https://autonomous-ai-agent-rho.vercel.app)
 
 An autonomous service that reasons about a task, plans its next step, and selects the right tool instead of returning a single-pass answer.
 
 - Implemented LangChain ReAct orchestration with calculator, file-manager, and Tavily search tools.
 - Added FAISS episodic memory with SQLite persistence for cross-session context.
-- Exposed the agent through a documented FastAPI service with Docker-ready Linux deployment.
+- Exposed the agent through a documented FastAPI service.
 
 `Python` `LangChain ReAct` `Llama 3.3 70B` `Groq` `FAISS` `FastAPI` `Docker`
+
+<!-- TODO: demo GIF -->
+<!-- TODO: architecture diagram -->
 
 ---
 
@@ -105,34 +112,37 @@ An autonomous service that reasons about a task, plans its next step, and select
 An assistant that answers questions over AWS service documentation instead of relying only on model memory.
 
 - Combined tool calling with Chroma vector retrieval.
-- Used multi-step reasoning to produce grounded responses over cloud-infrastructure knowledge.
+- Produces grounded answers over AWS documentation.
 
 `LangChain` `RAG` `Chroma` `Tool Calling` `AWS Documentation`
 
-## `$ git log --experience`
+<!-- TODO: demo GIF -->
+<!-- TODO: architecture diagram -->
 
-```text
-2026-01..2026-09  Teaching Assistant
-                    Alamein International University
+## `$ stack --grouped`
 
-2025-07..2025-09  Reinforcement Learning Intern
-                    SRTA-City
+```yaml
+ai_llm:
+  - LangChain, LangGraph, Agentic AI, RAG Pipelines
+  - Prompt Engineering, Groq LLM APIs, FAISS, Chroma
 
-2024-07..2024-08  Java Programming Intern
-                    Information Technology Institute
-```
+backend:
+  - Python, FastAPI, Node.js, Express.js
+  - REST APIs, Microservices, Modular Architecture
+  - Google OAuth, Stripe
 
-- **Teaching Assistant:** supported students in Java OOP, design patterns, debugging, calculus, and mathematical problem-solving.
-- **Reinforcement Learning Intern:** studied agents, environments, states, actions, and rewards; collaborated on a 3D game using Unity, C#, and Blender.
-- **Java Programming Intern:** built a real-time Java Swing and MySQL messaging platform using OOP, multithreading, Agile practices, and team development.
+data:
+  - PostgreSQL, Supabase, MongoDB, MySQL, SQL
+  - NumPy, Pandas, Scikit-learn
 
-## `$ cat education.txt`
+product_ui:
+  - JavaScript, TypeScript, React, Tailwind CSS, HTML, CSS
 
-```text
-B.Sc. Computer Science and Engineering — Artificial Intelligence Department
-Alamein International University
-Graduated: June 2026
-CGPA: 3.28 / 4.0
+engineering:
+  - Java, OOP, Design Patterns, Data Structures, Algorithms, Git
+
+delivery:
+  - Docker, Kubernetes, Linux, Railway, Vercel
 ```
 
 ## `$ ls ./certificates`
@@ -157,14 +167,16 @@ CGPA: 3.28 / 4.0
          Codio / Coursera
 ```
 
+<!-- TODO: verification link — LangChain & LangGraph Specialisation -->
+<!-- TODO: verification link — RAG (DeepLearning.AI) -->
+<!-- TODO: verification link — Generative AI Engineering with LLMs -->
+<!-- TODO: verification link — Algorithms on Graphs -->
+<!-- TODO: verification link — Engineering Practices for Building Quality Software -->
+<!-- TODO: verification link — Unix System Basics -->
+
 ## `$ git status --profile`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rodina404&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;icon_color=A78BFA&amp;text_color=F0F6FC&amp;ring_color=8B5CF6" alt="Rodina's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodina404&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=F0F6FC" alt="Rodina's most-used public repository languages" />
-
-<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rodina404/Rodina404/output/github-snake-dark.svg" />
@@ -172,19 +184,13 @@ CGPA: 3.28 / 4.0
   <img src="https://raw.githubusercontent.com/Rodina404/Rodina404/output/github-snake-dark.svg" alt="Animated contribution graph" />
 </picture>
 
-<br />
-
-<img src="./assets/robot-play.svg" width="138" alt="A small lavender robot playing Pong" />
-
-<sub><code>robot@github:~$ ./play-pong --idle</code></sub>
-
 </div>
 
 ## `$ ping rodina`
 
 ```text
-Open to thoughtful collaboration around:
-  AI agents · RAG systems · intelligent products · backend engineering
+Open to Applied AI / AI Engineer roles · Cairo or remote · available immediately
+  AI agents · RAG systems · LLM applications · backend engineering
 ```
 
 <div align="center">
