@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A78BFA,100:EC4899&height=220&section=header&text=Rodina%20Konsowa&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Applied%20AI%20Engineer%20%C2%B7%20Cairo%2C%20Egypt&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Rodina Konsowa, Applied AI Engineer" />
+<img src="./assets/space-header.svg" width="100%" alt="Rodina Konsowa, Applied AI Engineer, Cairo, Egypt" />
 
 <a href="https://github.com/Rodina404">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+autonomous+AI+agents;Grounded+RAG+systems;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+backends" alt="Building autonomous AI agents, grounded RAG systems, and Python, FastAPI, PostgreSQL backends" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=600&lines=Building+autonomous+AI+agents;Grounded+RAG+systems;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+backends" alt="Building autonomous AI agents, grounded RAG systems, and Python, FastAPI, PostgreSQL backends" />
 </a>
 
 <br />
 
-<a href="mailto:rodinamo2003@gmail.com"><img src="https://img.shields.io/badge/Email-rodinamo2003%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/rodina-mohamed-konsowa/"><img src="https://img.shields.io/badge/LinkedIn-Rodina%20Konsowa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Rodina404"><img src="https://img.shields.io/badge/GitHub-Rodina404-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Download-CV-EC4899?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV" /> <!-- TODO: CV link — wrap this badge in <a href="..."> -->
+<a href="mailto:rodinamo2003@gmail.com"><img src="https://img.shields.io/badge/Email-rodinamo2003%40gmail.com-8B5CF6?style=for-the-badge&labelColor=0B0E2A&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/rodina-mohamed-konsowa/"><img src="https://img.shields.io/badge/LinkedIn-Rodina%20Konsowa-6366F1?style=for-the-badge&labelColor=0B0E2A&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Rodina404"><img src="https://img.shields.io/badge/GitHub-Rodina404-141A3D?style=for-the-badge&labelColor=0B0E2A&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Download-CV-FBBF24?style=for-the-badge&labelColor=0B0E2A&logo=readthedocs&logoColor=white" alt="Download CV" /> <!-- TODO: CV link — wrap this badge in <a href="..."> -->
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Open%20to-Applied%20AI%20%2F%20AI%20Engineer%20roles-22C55E?style=flat-square" alt="Open to Applied AI / AI Engineer roles" />
-<img src="https://img.shields.io/badge/Location-Cairo%20or%20remote-6366F1?style=flat-square" alt="Cairo or remote" />
-<img src="https://img.shields.io/badge/Status-Available%20immediately-F59E0B?style=flat-square" alt="Available immediately" />
+<img src="https://img.shields.io/badge/Open%20to-Applied%20AI%20%2F%20AI%20Engineer%20roles-8B5CF6?style=flat-square&labelColor=141A3D" alt="Open to Applied AI / AI Engineer roles" />
+<img src="https://img.shields.io/badge/Location-Cairo%20or%20remote-6366F1?style=flat-square&labelColor=141A3D" alt="Cairo or remote" />
+<img src="https://img.shields.io/badge/Status-Available%20immediately-FBBF24?style=flat-square&labelColor=141A3D" alt="Available immediately" />
 
 </div>
 
-## About me
+## <img src="./assets/planet-1.svg" height="26" alt="" /> About me
 
 I build agentic AI systems, grounded retrieval applications, and the backend services that turn them into dependable software.
 
@@ -29,7 +29,9 @@ I build agentic AI systems, grounded retrieval applications, and the backend ser
 - **Interests:** agentic systems · RAG · LLM applications · web engineering
 - **Education:** B.Sc. CSE (AI), Alamein International University — June 2026 · CGPA 3.28/4.0
 
-## Featured projects
+<img src="./assets/divider-stars.svg" width="100%" alt="" />
+
+## <img src="./assets/planet-2.svg" height="26" alt="" /> Featured projects
 
 <table>
 <tr>
@@ -113,7 +115,7 @@ A career platform that extracts resume skills and recommends jobs and courses.
 </tr>
 </table>
 
-## Experience
+## <img src="./assets/planet-3.svg" height="26" alt="" /> Experience
 
 | When | Role | Where |
 |:--|:--|:--|
@@ -130,7 +132,13 @@ A career platform that extracts resume skills and recommends jobs and courses.
 - **Reinforcement Learning Intern:** studied agents, environments, states, actions, and rewards; collaborated on a 3D game using Unity, C#, and Blender.
 - **Java Programming Intern:** built a real-time Java Swing and MySQL messaging platform using OOP, multithreading, Agile practices, and team development.
 
-## Tech stack
+<img src="./assets/divider-stars.svg" width="100%" alt="" />
+
+## <img src="./assets/planet-4.svg" height="26" alt="" /> Tech stack
+
+<div align="center">
+<img src="./assets/solar-system.svg" width="100%" alt="Tech stack as a solar system: Applied AI at the centre, orbited by AI/LLM, Backend, Data, Frontend, and Engineering and delivery" />
+</div>
 
 **AI / LLM**<br />
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -180,7 +188,7 @@ A career platform that extracts resume skills and recommends jobs and courses.
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Certificates
+## <img src="./assets/planet-5.svg" height="26" alt="" /> Certificates
 
 | Date | Certificate | Issuer |
 |:--|:--|:--|
@@ -191,7 +199,9 @@ A career platform that extracts resume skills and recommends jobs and courses.
 | 2024-12 | Engineering Practices for Building Quality Software <!-- TODO: verification link --> | University of Minnesota / Coursera |
 | 2024-12 | Unix System Basics <!-- TODO: verification link --> | Codio / Coursera |
 
-## Contributions
+<img src="./assets/divider-stars.svg" width="100%" alt="" />
+
+## <img src="./assets/planet-6.svg" height="26" alt="" /> Contributions
 
 <div align="center">
 
@@ -203,8 +213,8 @@ A career platform that extracts resume skills and recommends jobs and courses.
 
 <br /><br />
 
-**Let's build something intelligent together →** [rodinamo2003@gmail.com](mailto:rodinamo2003@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rodina-mohamed-konsowa/)
+<img src="./assets/space-footer.svg" width="100%" alt="Let's build something intelligent together" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A78BFA,100:8B5CF6&height=120&section=footer" width="100%" alt="" />
+[rodinamo2003@gmail.com](mailto:rodinamo2003@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rodina-mohamed-konsowa/)
 
 </div>
